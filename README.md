@@ -8,6 +8,7 @@
  <a href="https://www.linkedin.com/in/mehul-minat/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" style="vertical-align:top; margin:8px"></a>
   <a href="https://www.instagram.com/mehul.1337/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="instagram" height="40" style="vertical-align:top; margin:8px"> </a>
 <a href="https://twitter.com/minatmehul" target="_blank" rel="noopener noreferrer"> <img src="https://cdnlogo.com/logos/t/96/twitter-icon.svg" alt="twitter" height="40" style="vertical-align:top; margin:8px"> </a>
+ <a href="https://mehulminat.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://icon-library.com/images/web-icon-svg/web-icon-svg-5.jpg" alt="twitter" height="40" style="vertical-align:top; margin:8px"> </a>
 </p>
 
 ## 📊 GitHub Stats
