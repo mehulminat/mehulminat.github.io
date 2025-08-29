@@ -26,3 +26,6 @@
 mehulminat/mehulminat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img width="2542" height="1800" alt="portfolio2" src="https://github.com/user-attachments/assets/102fba56-b3c0-42e7-9996-6e64a747052d" />
+
+
